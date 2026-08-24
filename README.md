@@ -16,6 +16,7 @@ This curated corpus supports mixed-methods inquiry (computational + close readin
 
 **Files included**
 	•	Xi_AI_correspondence_labels.csv (labeled dataset). 
+	•   Xi_AI_dataset_fulltext.csv (full text from the links in the dataset)
 	•	README.md (this file).
 
 ⸻
