@@ -1,10 +1,9 @@
 **README — Xi Jinping AI Discourse Corpus (2012–2025)**
 
-Title (paper): Constructing AI in and beyond China: Xi Jinping’s AI Speeches as Data
 Dataset size (final): 247 unique, manually-validated correspondences
 Corpus source: “Xi Jinping’s Series of Important Speeches” (People’s Daily / CCP News Website)
 Crawl snapshot / cut-off date: 6 January 2026
-Original site crawl: 10,911 unique links → 356 links matched AI keywords → 109 duplicates removed → 247 unique AI-relevant correspondences retained
+Original site crawl: 10,911 unique links. 356 links matched AI keywords. 109 duplicates removed. 247 unique AI-relevant correspondences retained
 Date range of retained correspondences: 6 September 2014 — 6 January 2026
 
 ⸻
