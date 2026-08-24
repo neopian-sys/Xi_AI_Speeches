@@ -3,8 +3,8 @@
 Dataset size (final): 247 unique, manually-validated correspondences. 
 Corpus source: “Xi Jinping’s Series of Important Speeches” (People’s Daily / CCP News Website)
 Crawl snapshot / cut-off date: 1 January 2026
-Original site crawl: 10,911 unique links crawled. 275 unique AI-relevant correspondences retained. 
-Date range of retained correspondences: 6 September 2014 — 24 August 2026
+Original site crawl: nearly 11,000 unique links crawled. 273 unique AI-relevant correspondences retained. 
+Date range of retained correspondences: September 2014 — August 2026
 
 ⸻
 
