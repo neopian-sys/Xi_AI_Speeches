@@ -38,7 +38,7 @@ Hand-coded correspondence type (e.g., Speech transcript, Meeting description, Vi
 	•	**AI_Term_Counts**
 Integer count of occurrences of the predefined AI keyword set found in the title and main body (exact-match matching against the keyword list described in the paper: e.g., 人工智能, 深度学习, 机器学习, 基础模型, 大语言模型, 生成式人工智能, 算法, AI, etc.). This count is intended as a simple relevance indicator, not a semantic measure.
 	•	**Duplicate? (Y/N)**
-Y if this row was flagged as a duplicate version of the same correspondence published across platforms (e.g., People’s Daily + CCP News); N if unique. 
+Y if this row was flagged as a duplicate version of the same correspondence published across platforms (e.g., People’s Daily + CCP News). Please note that an item is flagged with a 'Y' if and only if it is the second instnance or more of the duplication - the first instance is treated as 'N' unique. N if unique. 
 	•	**URL**
 Original source URL where the artefact was found.
 	•	**matched_text**
